@@ -358,7 +358,7 @@ def feature_match(img1, img2):
         const.WINDOWS_AND_DOORS_FEATURE_TRACK_QUALITY,
         const.WINDOWS_AND_DOORS_FEATURE_TRACK_MIN_DIST,
     )
-    corners = np.int0(corners)
+    corners = np.intp(corners)
 
     # This is still a little hardcoded but still better than before!
     upper_left = corners[1][0]
