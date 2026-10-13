@@ -1,0 +1,16 @@
+date,ticker,type,quantity,price,fees,asset_type,sector,name
+2022-01-10,AAPL,BUY,10,172.00,1.00,Stock,Technology,Apple Inc.
+2022-03-15,MSFT,BUY,5,287.00,1.00,Stock,Technology,Microsoft Corp.
+2022-06-01,VTI,BUY,20,205.00,0.00,Fund,Broad Market,Vanguard Total Stock Market ETF
+2022-08-15,AAPL,DIVIDEND,0,2.30,0,,,
+2023-01-05,JNJ,BUY,8,176.00,1.00,Stock,Healthcare,Johnson & Johnson
+2023-02-10,VTI,BUY,10,198.00,0.00,Fund,Broad Market,Vanguard Total Stock Market ETF
+2023-05-20,AAPL,BUY,5,175.00,1.00,Stock,Technology,Apple Inc.
+2023-09-30,VTI,DIVIDEND,0,24.90,0,,,
+2024-03-01,BND,BUY,30,72.00,0.00,Fund,Bonds,Vanguard Total Bond Market ETF
+2024-06-10,MSFT,SELL,2,425.00,1.00,,,
+2024-06-30,JNJ,DIVIDEND,0,9.92,0,,,
+2024-06-10,NVDA,BUY,10,1200.00,1.00,Stock,Technology,NVIDIA Corp.
+2024-06-10,NVDA,SPLIT,10,0,0,,,
+2025-01-15,BND,DIVIDEND,0,21.50,0,,,
+2025-04-08,VTI,BUY,5,250.00,0.00,Fund,Broad Market,Vanguard Total Stock Market ETF
